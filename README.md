@@ -24,6 +24,7 @@ TypeScript是一个注重数据类型的语言（我认为），与JavaScript相
 2. `tsc init` 生成tsconfig.json
 3. 新建文件夹 `src` 作为代码储存地
 
+
 ## 目录
 
  - [关于此笔记](README.md)
@@ -49,3 +50,9 @@ TypeScript是一个注重数据类型的语言（我认为），与JavaScript相
  - [20 TypeScript 函数泛型 - 难点](https://github.com/wibus-wee/TypeScript-Doc/blob/main/20%20TypeScript%20函数泛型%20-%20难点.md)
  - [21 TypeScript 类中泛型 - 难点](https://github.com/wibus-wee/TypeScript-Doc/blob/main/21%20TypeScript%20类中泛型-难点.md)
  - [22 初识命名空间——Namespace](https://github.com/wibus-wee/TypeScript-Doc/blob/main/22%20初识命名空间——Namespace.md)
+
+ ## 参考资料
+
+- [技术胖（基本是看他的）](https://jspang.com)
+ - [TypeScript 官方文档](https://www.typescriptlang.org/docs/)
+ - [菜鸟教程（没咋看）](https://www.runoob.com/typescript/ts-tutorial.html)
